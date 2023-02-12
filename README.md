@@ -1,3 +1,3 @@
 # PaginaWebHaplee
-prueba de hosting
+Prueba de hosting
 Es una prueba de pagina web personal 
